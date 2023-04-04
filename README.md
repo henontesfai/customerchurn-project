@@ -65,4 +65,4 @@ Embracing data-driven decision-making can help businesses enhance their customer
 
 ## Code
 
-For those interested in the technical details of the project, you can find the source code in this [GitHub repository](https://github.com/yourusername/your-repo).
+For those interested in the technical details of the project, you can find the source code in this [GitHub repository](https://github.com/henontesfai/customerchurn-project).
