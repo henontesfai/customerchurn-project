@@ -39,7 +39,7 @@ A logistic regression model was used to predict customer churn. The model was tr
 
 The most important features for predicting customer churn were identified using the logistic regression model's coefficients. The plot below shows the top features in order of importance.
 
-![Feature Importance](path/to/feature_importance.png)
+![Feature Importance](Figure_1.png)
 
 ## App Overview and Benefits
 
@@ -51,7 +51,7 @@ An interactive web application was developed to help companies explore the data,
 
 By utilizing this app, companies can identify areas where they can focus their efforts to retain customers and improve their overall customer experience.
 
-![App Screenshot](path/to/app_screenshot.png)
+![App Screenshot](customer-churn-app.png)
 
 ## Conclusion and Recommendations
 
