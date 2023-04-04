@@ -1,6 +1,10 @@
 # Customer Churn Prediction
 
-This project focuses on predicting customer churn for a telecommunications company using machine learning techniques. The goal is to identify customers at risk of leaving the company and help develop targeted retention strategies.
+This project focuses on predicting customer churn for a telecommunications company using machine learning techniques. The goal is to identify customers at risk of leaving the company and help develop targeted retention strategies. By leveraging data-driven insights, businesses can make informed decisions and modernize their processes to better serve their customers.
+
+## Purpose
+
+The purpose of this project is to showcase my skills in data analysis, machine learning, and application development. I believe that digitalization and modernization are essential for businesses to stay competitive in today's market. By demonstrating my ability to create data-driven solutions, I aim to prove that I can contribute to transforming traditional processes and enhancing decision-making in any organization.
 
 ## Dataset Overview
 
@@ -37,6 +41,18 @@ The most important features for predicting customer churn were identified using 
 
 ![Feature Importance](path/to/feature_importance.png)
 
+## App Overview and Benefits
+
+An interactive web application was developed to help companies explore the data, visualize the results, and make informed decisions about customer retention. The app allows users to:
+
+- View the distribution of churn across different customer segments
+- Analyze the impact of various features on customer churn
+- Gain insights into the most important factors that contribute to churn
+
+By utilizing this app, companies can identify areas where they can focus their efforts to retain customers and improve their overall customer experience.
+
+![App Screenshot](path/to/app_screenshot.png)
+
 ## Conclusion and Recommendations
 
 The logistic regression model performed reasonably well in predicting customer churn. The insights gained from the feature importance analysis suggest that contract type, tenure, and monthly charges are key factors in predicting churn. Based on these findings, the company could consider the following recommendations:
@@ -44,6 +60,8 @@ The logistic regression model performed reasonably well in predicting customer c
 - Offer personalized contract options or incentives for customers with month-to-month contracts.
 - Develop loyalty programs to increase customer tenure.
 - Review pricing strategies to ensure competitive monthly charges.
+
+Embracing data-driven decision-making can help businesses enhance their customer retention strategies and stay ahead in the competitive market.
 
 ## Code
 
