@@ -22,7 +22,7 @@ The dataset used for this project contains information about 7,032 customers, in
 
 The data was preprocessed by handling missing values, converting data types, and encoding categorical variables. During the exploratory data analysis phase, visualizations were created to understand the distribution of churn and its relationship with different features.
 
-![Churn Distribution](path/to/churn_distribution.png)
+![Churn Distribution](churn_distribution.png)
 
 ![Churn by Contract Type](path/to/churn_by_contract_type.png)
 
