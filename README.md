@@ -24,7 +24,7 @@ The data was preprocessed by handling missing values, converting data types, and
 
 ![Churn Distribution](churn_distribution.png)
 
-![Churn by Contract Type](path/to/churn_by_contract_type.png)
+![Churn by Contract Type](churn_by_contract_type.png)
 
 ## Model Selection and Evaluation
 
