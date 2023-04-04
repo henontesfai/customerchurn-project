@@ -22,9 +22,9 @@ The dataset used for this project contains information about 7,032 customers, in
 
 The data was preprocessed by handling missing values, converting data types, and encoding categorical variables. During the exploratory data analysis phase, visualizations were created to understand the distribution of churn and its relationship with different features.
 
-![Churn Distribution](churn_distribution.png)
+![Churn Distribution](https://github.com/henontesfai/customerchurn-project/blob/main/Optim/churn_distribution.png)
 
-![Churn by Contract Type](churn_by_contract_type.png)
+![Churn by Contract Type](https://github.com/henontesfai/customerchurn-project/blob/main/Optim/churn_by_contract_type.png)
 
 ## Model Selection and Evaluation
 
@@ -39,7 +39,7 @@ A logistic regression model was used to predict customer churn. The model was tr
 
 The most important features for predicting customer churn were identified using the logistic regression model's coefficients. The plot below shows the top features in order of importance.
 
-![Feature Importance](Figure_1.png)
+![Feature Importance](https://github.com/henontesfai/customerchurn-project/blob/main/Optim/Figure_1.png)
 
 ## App Overview and Benefits
 
@@ -51,7 +51,7 @@ An interactive web application was developed to help companies explore the data,
 
 By utilizing this app, companies can identify areas where they can focus their efforts to retain customers and improve their overall customer experience.
 
-![App Screenshot](customer-churn-app.png)
+![App Screenshot](https://github.com/henontesfai/customerchurn-project/blob/main/Optim/customer-churn-app.png)
 
 ## Conclusion and Recommendations
 
